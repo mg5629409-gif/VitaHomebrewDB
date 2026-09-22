@@ -1,4 +1,4 @@
-# Catalog
+fifa# Catalog
 
 Every entry, with the download it currently points at. The ones added since
 31.07.2026 are also listed on their own in [ADDED.md](ADDED.md).
